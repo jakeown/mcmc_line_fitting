@@ -1,5 +1,6 @@
 # mcmc_line_fitting
 Metropolis-Hastings Markov Chain Monte Carlo Line Fitting Routine
+
 Developed by: Jared Keown
 
 The mcmc_line_fitting.py code was designed to find the set of model parameters that best describe 
