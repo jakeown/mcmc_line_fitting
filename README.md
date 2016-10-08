@@ -9,5 +9,5 @@ uses the HILL5 radiative transfer infall/outflow model by De Vries et al. (2005)
 but can easily be adapted to fit other models to different types of data.
 
 This directory also contains a sample spectra that can be used to test the code, as well as
-the mcmc_histogram.py code that creates histograms of the maximum likelihood parameters 
-of the model. 
+the mcmc_params_plotter.py code that creates histograms and triangle plots of the 
+maximum likelihood parameters of the model. 
